@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Country Quiz for Kids</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <h1>🌍 Country Quiz 🌍</h1>
+
+    <p id="question">Question will appear here</p>
+
+    <div id="options">
+        <button class="option" onclick="checkAnswer(0)"></button>
+        <button class="option" onclick="checkAnswer(1)"></button>
+        <button class="option" onclick="checkAnswer(2)"></button>
+        <button class="option" onclick="checkAnswer(3)"></button>
+    </div>
+
+    <p id="feedback"></p>
+    <p id="score">Score: 0</p>
+
+    <button id="nextBtn" onclick="nextQuestion()">Next ➡️</button>
+
+    <script src="script.js"></script>
+</body>
+</html>
