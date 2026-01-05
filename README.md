@@ -75,8 +75,7 @@ OR
 Enable GitHub Pages in the repository settings to deploy the app online
 
 ## Vedio Demo:
-https://www.linkedin.com/posts/shobbika-t-989383332_taskabr03-webdevelopment-javascript-activity-7414005737863077888-AycC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFO0ZbkBXB_Hy6kCnVN2bdPFnfMH0sIe00o
-
+https://www.linkedin.com/posts/shobbika-t-989383332_taskabr3-webdevelopment-javascript-activity-7414005887146577920-B5aj?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFO0ZbkBXB_Hy6kCnVN2bdPFnfMH0sIe00o
 
 ## 🧠 JavaScript Concepts Used
 
